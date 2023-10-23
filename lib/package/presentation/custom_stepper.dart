@@ -1,6 +1,7 @@
+import 'package:custom_stepper_withoutpgview/package/widget/connector.dart';
+import 'package:custom_stepper_withoutpgview/package/widget/toggleButton.dart';
 import 'package:flutter/material.dart';
-import 'package:mycustom_stepper_withoutpgview/package/widget/connector.dart';
-import 'package:mycustom_stepper_withoutpgview/package/widget/toggleButton.dart';
+
 
 class CustomStepper extends StatefulWidget {
   final List<AddStep> steps;
